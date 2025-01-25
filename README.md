@@ -1,4 +1,4 @@
-## creating a new websites for software developer
+## creating a new websites for frontend developer developer
 
 <!--
 **Akashwaghmare0507/akashwaghmare0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
